@@ -14,8 +14,14 @@ h2{
   font-family: Avenir;
 }
 
-h2:hover{
-  content: "Ciea";
+img{
+  margin-top: 50px;
+}
+
+img.immagine2{
+  margin-right: auto;
+
+
 }
 
 h3{
