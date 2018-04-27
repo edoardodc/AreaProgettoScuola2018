@@ -14,8 +14,6 @@ h2{
   font-family: Avenir;
 }
 
-
-
 img{
   margin-top: 50px;
 }
@@ -33,6 +31,15 @@ h3{
   padding-right: 35px;
 }
 
+button{
+  height: 40px;
+  width: 100px;
+  background-color: red;
+  font-size: 25px;
+  color: white;
+}
+
+
 p{
   font-size: 20px;
   padding-left: 300px;
@@ -42,6 +49,14 @@ p{
   font-family: Avenir;
   line-height: 1.8;
 }
+
+p.ciao {
+  padding: 220px 0;
+   text-align: center;
+
+
+}
+
 
 .hero-logo-circles {
     width: 366px;
