@@ -14,14 +14,14 @@ h2{
   font-family: Avenir;
 }
 
+
+
 img{
   margin-top: 50px;
 }
 
 img.immagine2{
   margin-right: auto;
-
-
 }
 
 h3{
@@ -35,13 +35,77 @@ h3{
 
 p{
   font-size: 20px;
-  padding-left: 350px;
-  padding-right: 350px;
+  padding-left: 300px;
+  padding-right: 300px;
   vertical-align: top;
   text-align: justify;
   font-family: Avenir;
   line-height: 1.8;
 }
+
+.hero-logo-circles {
+    width: 366px;
+    height: 366px;
+    margin: auto;
+    position: relative
+}
+
+.hero-logo-circle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation: hero-logo-circle 1s linear infinite;
+    will-change: transform
+}
+
+
+
+.hero-logo-circle:nth-child(1) {
+    animation-duration: 30s
+}
+
+.hero-logo-circle:nth-child(2) {
+    animation-duration: 40s
+}
+
+.hero-logo-circle:nth-child(3) {
+    animation-duration: 50s
+}
+
+.hero-logo-circle:nth-child(4) {
+    animation-duration: 60s
+}
+
+.hero-logo-circle:nth-child(5) {
+    animation-duration: 70s
+}
+
+.hero-logo-circle:nth-child(6) {
+    animation-duration: 80s
+}
+
+.hero-logo-circle:nth-child(7) {
+    animation-duration: 90s
+}
+
+.hero-logo-circle:nth-child(8) {
+    animation-duration: 100s
+}
+
+.hero-logo-circle:nth-child(9) {
+    animation-duration: 110s
+}
+
+.hero-logo-circle:nth-child(10) {
+    animation-duration: 120s
+}
+
+@keyframes hero-logo-circle {
+    100% {
+        transform: rotate(1turn)
+    }
+}
+
 
 
 #myAnimation {
