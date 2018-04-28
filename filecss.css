@@ -14,6 +14,7 @@ h2{
   font-family: Avenir;
 }
 
+
 img{
   margin-top: 50px;
 }
@@ -50,13 +51,23 @@ p{
   line-height: 1.8;
 }
 
-p.ciao {
-  padding: 220px 0;
-   text-align: center;
-
-
+.ciao {
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
+.imagesinline{
+  display: inline;
+    padding: 150px;
+}
+
+.imagemodem{
+  padding-top: 150px;
+}
 
 .hero-logo-circles {
     width: 366px;
@@ -120,8 +131,6 @@ p.ciao {
         transform: rotate(1turn)
     }
 }
-
-
 
 #myAnimation {
   width: 50px;
