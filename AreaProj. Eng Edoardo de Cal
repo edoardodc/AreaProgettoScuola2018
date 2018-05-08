@@ -1,0 +1,21 @@
+{
+    "Edo": {
+        "titolo": "Maybe Better If You Don’t Read This Story on Public WiFi",
+        "sotto-titolo1": "We took a hacker to a café and, he knew where everyone else was born, and the last five things they googled.
+"       "p1": "In his backpack, Wouter Slotboom, 34, carries around a small black device, with an antenna on it. Some people talk, others are working on their laptops or playing with their smartphones.
+            Wouter removes his laptop from his backpack, puts the black device on the table, and hides it under a menu. A waitress passes by and we ask for two coffees and the password for the WiFi network. Meanwhile, Wouter switches on his laptop and device, launches some programs, and soon the screen starts to fill with green text lines. It gradually becomes clear that Wouter’s device is connecting to the laptops, smartphones, and tablets of cafe visitors.
+            On his screen, phrases like “iPhone Joris” start to appear. The device’s antenna is intercepting the signals that are being sent from the laptops, smartphones, and tablets around us.
+             More text starts to appear on the screen. We are able to see which WiFi networks the devices were previously connected to.
+             We learn that Joris had previously visited McDonald’s, probably spent his vacation in Spain, and had been kart-racing.",
+
+
+        "sotto-titolo2": "How did he do?"
+        "p2": "The waitress serves us our coffee and hands us the WiFi password. After Slotboom is connected, he is able to provide all the visitors with an internet connection and to redirect all internet traffic through his little device.
+        Most smartphones, laptops, and tablets automatically search and connect to WiFi networks. They usually prefer a network with a previously established connection. If you have ever logged on to the T-Mobile network on the train, for example, your device will search for a T-Mobile network in the area.
+        Slotboom’s device is capable of registering these searches and appearing as that trusted WiFi network. I suddenly see the name of my home network appear on my iPhone’s list of available networks, as well as my workplace, and a list of cafes, hotel lobbies, trains, and other public places I’ve visited. My phone automatically connects itself to one of these networks, which all belong to the black device.
+        Already 20 smartphones and laptops are ours. If he wanted to, Slotboom could now completely ruin the lives of the people connected: He can retrieve their passwords, steal their identity, and plunder their bank accounts. Later today, he will show me how. I have given him permission to hack me in order to demonstrate what he is capable of, though it could be done to anyone with a smartphone in search of a network, or a laptop connecting to a WiFi network.
+        Everything can be cracked.
+        The idea that public WiFi networks are not secure is not exactly news. It is, however, news that can’t be repeated often enough. There are currently more than 1.43 billion smartphone users worldwide and more than 150 million smartphone owners in the U.S. More than 92 million American adults own a tablet and more than 155 million own a laptop. Each year the worldwide demand for more laptops and tablets increases. In 2013, an estimated 206 million tablets and 180 million laptops were sold worldwide. Probably everyone with a portable device has once been connected to a public WiFi network: while having a coffee, on the train, or at a
+        Slotboom calls himself an “ethical hacker”; a technology buff who wants to reveal the potential dangers of the internet and technology.  He does this, as he did today, usually by demonstrating how easy it is to inflict damage. Because really, it’s child’s play: The device is cheap, and the software for intercepting traffic is very easy to use and is readily available for download. “All you need is 70 Euros, an average IQ, and a little patience,” he says. I will refrain from elaborating on some of the more technical aspects, such as equipment, software, and apps needed to go about hacking people."
+    }
+}

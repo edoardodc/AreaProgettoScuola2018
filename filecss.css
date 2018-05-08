@@ -5,7 +5,7 @@
     height: 450px;
     width: 100%;
 }
-
+	
 h2{
   font-size: 60px;
   color: white;
@@ -28,8 +28,8 @@ h3{
   font-family: Avenir;
   text-align: center;
   font-size: 30px;
-  padding-left: 35px;
-  padding-right: 35px;
+  padding-left: 250px;
+  padding-right: 250px;
 }
 
 button{
@@ -84,48 +84,36 @@ p{
     will-change: transform
 }
 
-
-
 .hero-logo-circle:nth-child(1) {
     animation-duration: 30s
 }
-
 .hero-logo-circle:nth-child(2) {
     animation-duration: 40s
 }
-
 .hero-logo-circle:nth-child(3) {
     animation-duration: 50s
 }
-
 .hero-logo-circle:nth-child(4) {
     animation-duration: 60s
 }
-
 .hero-logo-circle:nth-child(5) {
     animation-duration: 70s
 }
-
 .hero-logo-circle:nth-child(6) {
     animation-duration: 80s
 }
-
 .hero-logo-circle:nth-child(7) {
     animation-duration: 90s
 }
-
 .hero-logo-circle:nth-child(8) {
     animation-duration: 100s
 }
-
 .hero-logo-circle:nth-child(9) {
     animation-duration: 110s
 }
-
 .hero-logo-circle:nth-child(10) {
     animation-duration: 120s
 }
-
 @keyframes hero-logo-circle {
     100% {
         transform: rotate(1turn)
